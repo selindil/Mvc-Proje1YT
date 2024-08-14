@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7cfbbf298d6d481da5918eb19d119eaf" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="MvcProjeDbStokModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcProjeDbStokModel.TBLKATEGORİLER" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcProjeDbStokModel.TBLMUSTERİLER" Width="1.5" PointX="3" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcProjeDbStokModel.TBLSATISLAR" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcProjeDbStokModel.TBLURUNLER" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="MvcProjeDbStokModel.FK_TBLURUNLER_TBLKATEGORİLER" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcProjeDbStokModel.FK_TBLSATISLAR_TBLMUSTERİLER" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcProjeDbStokModel.FK_TBLSATISLAR_TBLURUNLER" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
