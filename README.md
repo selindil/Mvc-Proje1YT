@@ -22,7 +22,8 @@ Müşteri Yönetimi: Yeni müşteri bilgisi ekleme,mevcut müşteri güncelleme,
 Satış Yapma: Satış işlemleri gerçekleştirilir.
 
 <img widt<img width="921" alt="Ekran görüntüsü 2024-08-14 164055" src="https://github.com/user-attachments/assets/e37cb6db-ff52-4801-bdb6-71137f8e451c">
-h="700" alt="Ekran görüntüsü 2024-08-14 163834" src="https://github.com/user-attachments/assets/a9bc369c-771a-421d-8943-453c82bcf059">
+<img width="921" alt="Ekran görüntüsü 2024-08-14 164055" src="https://github.com/user-attachments/assets/4f47eedb-84a7-4180-8d5f-a1db755f97e7">
+
 <img width="906" alt="Ekran görüntüsü 2024-08-14 164133" src="https://github.com/user-attachments/assets/d2f55b56-2d58-4af6-824b-dea1b07eb734">
 <img width="915" alt="Ekran görüntüsü 2024-08-14 164300" src="https://github.com/user-attachments/assets/00774b9a-f90d-46c8-9511-fd68853ba2b5">
 <img width="916" alt="Ekran görüntüsü 2024-08-14 164235" src="https://github.com/user-attachments/assets/98b38960-ce68-47d4-825a-4c598120dcac">
