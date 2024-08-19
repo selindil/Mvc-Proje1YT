@@ -24,6 +24,5 @@ Satış Yapma: Satış işlemleri gerçekleştirilir.
 <img width="700" alt="Ekran görüntüsü 2024-08-14 163834" src="https://github.com/user-attachments/assets/b89d1a23-466e-419a-8129-6b272b5dbb59">
 <img width="916" alt="Ekran görüntüsü 2024-08-14 164235" src="https://github.com/user-attachments/assets/e150b19b-ce68-4079-a113-ff67989951fd">
 <img width="921" alt="Ekran görüntüsü 2024-08-14 164055" src="https://github.com/user-attachments/assets/f7ced1ee-84f3-4e09-adb1-3d08cbe07a50">
-<img width="906" alt="Ekran görüntüsü 2024-08-14 164133" src="https://github.com/user-attachments/assets/7d451362-a828-44f0-8b9a-409b86eb623f">
 <img width="842" alt="Ekran görüntüsü 2024-08-14 164206" src="https://github.com/user-attachments/assets/2ec30541-dcae-4930-af75-322e33119b9b">
 <img width="915" alt="Ekran görüntüsü 2024-08-14 164300" src="https://github.com/user-attachments/assets/43e8668a-0ff6-40ea-8b84-18ab01f3853b">
