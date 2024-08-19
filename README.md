@@ -21,10 +21,9 @@ Kategori Yönetimi: Yeni kategori bilgisi ekleme,mevcut kategorileri güncelleme
 Müşteri Yönetimi: Yeni müşteri bilgisi ekleme,mevcut müşteri güncelleme, müşteri bilgisini silme, müşterileri listeleme,müşterileri adına ve diğer kriterlere göre arama yapma işlemleri yapılır.
 Satış Yapma: Satış işlemleri gerçekleştirilir.
 
-<img widt<img width="921" alt="Ekran görüntüsü 2024-08-14 164055" src="https://github.com/user-attachments/assets/e37cb6db-ff52-4801-bdb6-71137f8e451c">
-<img width="921" alt="Ekran görüntüsü 2024-08-14 164055" src="https://github.com/user-attachments/assets/4f47eedb-84a7-4180-8d5f-a1db755f97e7">
-
-<img width="906" alt="Ekran görüntüsü 2024-08-14 164133" src="https://github.com/user-attachments/assets/d2f55b56-2d58-4af6-824b-dea1b07eb734">
-<img width="915" alt="Ekran görüntüsü 2024-08-14 164300" src="https://github.com/user-attachments/assets/00774b9a-f90d-46c8-9511-fd68853ba2b5">
-<img width="916" alt="Ekran görüntüsü 2024-08-14 164235" src="https://github.com/user-attachments/assets/98b38960-ce68-47d4-825a-4c598120dcac">
-<img width="842" alt="Ekran görüntüsü 2024-08-14 164206" src="https://github.com/user-attachments/assets/100f2396-2159-4312-87d3-0dcee5e36823">
+<img width="700" alt="Ekran görüntüsü 2024-08-14 163834" src="https://github.com/user-attachments/assets/b89d1a23-466e-419a-8129-6b272b5dbb59">
+<img width="916" alt="Ekran görüntüsü 2024-08-14 164235" src="https://github.com/user-attachments/assets/e150b19b-ce68-4079-a113-ff67989951fd">
+<img width="921" alt="Ekran görüntüsü 2024-08-14 164055" src="https://github.com/user-attachments/assets/f7ced1ee-84f3-4e09-adb1-3d08cbe07a50">
+<img width="906" alt="Ekran görüntüsü 2024-08-14 164133" src="https://github.com/user-attachments/assets/7d451362-a828-44f0-8b9a-409b86eb623f">
+<img width="842" alt="Ekran görüntüsü 2024-08-14 164206" src="https://github.com/user-attachments/assets/2ec30541-dcae-4930-af75-322e33119b9b">
+<img width="915" alt="Ekran görüntüsü 2024-08-14 164300" src="https://github.com/user-attachments/assets/43e8668a-0ff6-40ea-8b84-18ab01f3853b">
